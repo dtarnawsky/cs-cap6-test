@@ -1,0 +1,7 @@
+{
+  "name": "cs-cap6-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
